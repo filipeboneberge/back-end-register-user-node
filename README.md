@@ -3,6 +3,12 @@
 <br>Esse projeto tem o objetivo de integrar com o Projeto Cadastro de Usuário na funcão de cadastrar, visualizar e deletar usuários.
 <br>O Projeto Cadastro de Usuário está no meu github.
 <br>
+<br>
+<br>
+<img src="https://github.com/filipeboneberge/back-end-register-user-node/blob/main/assets/instalar-dependencias-projeto.png?">
+<br>
+<br>
+
 <h2>:computer:Tecnologias Utilizadas</h2>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)">
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
